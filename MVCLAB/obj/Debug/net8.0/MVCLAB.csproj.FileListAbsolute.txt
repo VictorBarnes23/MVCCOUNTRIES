@@ -1,0 +1,15 @@
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.exe
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.deps.json
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.runtimeconfig.json
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.dll
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\bin\Debug\net8.0\MVCLAB.pdb
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.AssemblyInfoInputs.cache
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.AssemblyInfo.cs
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.csproj.CoreCompileInputs.cache
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.sourcelink.json
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.dll
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\refint\MVCLAB.dll
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.pdb
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\MVCLAB.genruntimeconfig.cache
+C:\Users\vicpb\Downloads\MVCLAB\MVCLAB\obj\Debug\net8.0\ref\MVCLAB.dll
